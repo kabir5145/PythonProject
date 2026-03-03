@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from numpy.ma.core import dot
 
 # Load dataset
 file = pd.read_csv("student_data.csv")
