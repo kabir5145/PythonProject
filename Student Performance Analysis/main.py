@@ -86,3 +86,4 @@ plt.title("Average Marks Trend")
 
 plt.tight_layout()
 plt.show()
+
